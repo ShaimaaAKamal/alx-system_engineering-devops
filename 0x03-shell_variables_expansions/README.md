@@ -1,1 +1,1 @@
-#Variables and aliases
+#Variable and aliases
